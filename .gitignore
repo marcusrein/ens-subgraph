@@ -74,3 +74,6 @@ typings/
 .idea
 
 /tests/.bin
+.git
+.gitignore
+.vscode
